@@ -31,15 +31,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/thotranexe/BitFit-Part1/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with LICEcap
-
+GIF created with Andriod Studio screen recorder and webm to gif converter
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-Figuring out how to send the information from the DetailActivity back to the database and exit out back to the MainActivity was challenging.
 
 ## License
 
